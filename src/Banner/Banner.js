@@ -42,7 +42,7 @@ function Banner() {
                 onClick={() => history.push('/search')}
                 
                 varient='outlined' 
-                >Explore Nearby</Button>
+                >Explore </Button>
 
             </div>
             
